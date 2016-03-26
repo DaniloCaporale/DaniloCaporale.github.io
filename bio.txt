@@ -1,0 +1,16 @@
+Danilo Caporale was born in Lanciano, Italy, in 1987. He received the
+Bachelor and Master of Science degrees in Automation and Control
+Engineering in 2009 and 2011, respectively, from the Politecnico di
+Milano. In 2015 he received the Ph.D. degree in Information Technology
+from the same institution, with a thesis on robust control devices for
+railway traction and braking, with the collaboration of Alstom
+Transport Italy and the support of Associazione Eugenio e Germana
+Parizzi. During his Ph.D. studies, he spent visiting periods at
+Imperial College, UK, at University of Newcastle, NSW, Australia, and,
+as a Rocca Fellow, at Massachusetts Institute of Technology, USA.
+Since 2015 he is a Post-Doc Researcher at Centro di Ricerca
+E. Piaggio, Università di Pisa, where he is working in the EU Project
+Walk-Man on planning and control algorithms for applications to
+whole-body humanoid robot control.  His research interests are robust
+and optimal control, with applications to vehicle, biological and
+humanoid robotic systems.

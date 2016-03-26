@@ -167,10 +167,10 @@ section .heading p{
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: cover;
+	background-size: 100% auto;/*cover;*/
 	background-color: #464646;
 	min-height:100%;
-	width: 100%;
+	width: 100%;        
 }
 .header-text {
 	text-align: center;
